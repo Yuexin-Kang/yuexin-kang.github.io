@@ -31,7 +31,7 @@ Selected Publications
 
 Selected Working Papers
 ======
-- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R. Deep Reinforcement Learning for Order-Tote-Robot Coordination in Multi-Tote Storage and Retrieval Systems with Sequential Picking Stations, submitted to *European Journal of Operational Research*, under Major revision.
-- **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online Stochastic Postponement-Aware Order Pooling: Model, Recursive Decomposition Algorithm and an Application to Warehouse Operations.
+- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R. Deep Reinforcement Learning for Order-Tote-Robot Coordination in Multi-Tote Storage and Retrieval Systems with Sequential Picking Stations, submitted to *European Journal of Operational Research*, Major revision.
+- **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online Stochastic Postponement-Aware Order Pooling: Model, Recursive Decomposition Algorithm and an Application to Warehouse Operations. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
 - **Kang, Y.**, Liu, W. Enhancing Parking-and-Charging-as-a-Service: A Stochastic Lookahead Capacity Provisioning Policy with Feedback-Driven Online Learning.
 - **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services.
