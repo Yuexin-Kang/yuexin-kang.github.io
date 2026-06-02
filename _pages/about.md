@@ -26,7 +26,7 @@ Research Interests
 
 Selected Publications
 ======
-- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R. 2026. Deep Reinforcement Learning for Order-Tote-Robot Coordination in Multi-Tote Storage and Retrieval Systems with Sequential Picking Stations, *European Journal of Operational Research*, Accept.
+- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R., 2026. Deep Reinforcement Learning for Order-Tote-Robot Coordination in Multi-Tote Storage and Retrieval Systems with Sequential Picking Stations, *European Journal of Operational Research*, Accept.
 - **Kang, Y.**, Qu, Z., Yang, P., 2025. Enhancing E-commerce Warehouse Order Fulfillment through Predictive Order Reservation Using Machine Learning, *IEEE Transactions on Automation Science and Engineering*, 22:5700–5713. ([Download](https://doi.org/10.1109/TASE.2024.3428541))
 - **Kang, Y.**, Wang, R., Qin, Z., Yang, P., Yan, Y., 2025. Warehouses with Heterogeneous Robots Collaboration: Operational Policies and Performance Analysis, *International Journal of Production Research*, 63(23), 8698–8726. ([Download](https://doi.org/10.1080/00207543.2025.2513576))
 
