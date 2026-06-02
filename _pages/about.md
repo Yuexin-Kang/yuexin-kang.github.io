@@ -26,12 +26,12 @@ Research Interests
 
 Selected Publications
 ======
+- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R. 2026. Deep Reinforcement Learning for Order-Tote-Robot Coordination in Multi-Tote Storage and Retrieval Systems with Sequential Picking Stations, *European Journal of Operational Research*, Accept.
 - **Kang, Y.**, Qu, Z., Yang, P., 2025. Enhancing E-commerce Warehouse Order Fulfillment through Predictive Order Reservation Using Machine Learning, *IEEE Transactions on Automation Science and Engineering*, 22:5700–5713. ([Download](https://doi.org/10.1109/TASE.2024.3428541))
 - **Kang, Y.**, Wang, R., Qin, Z., Yang, P., Yan, Y., 2025. Warehouses with Heterogeneous Robots Collaboration: Operational Policies and Performance Analysis, *International Journal of Production Research*, 63(23), 8698–8726. ([Download](https://doi.org/10.1080/00207543.2025.2513576))
 
 Selected Working Papers
 ======
-- **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R. Deep Reinforcement Learning for Order-Tote-Robot Coordination in Multi-Tote Storage and Retrieval Systems with Sequential Picking Stations, submitted to *European Journal of Operational Research*, Minor revision.
 - **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with Two-Stage Stochastic Programming: An Application to Usage Behavior Pattern Mining in Parking Subscription Services, submitted to *Transportation Research Part C: Emerging Technologies*, Major revision.
 - **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online Stochastic Postponement-Aware Order Pooling: Model, Recursive Decomposition Algorithm and An Application to Warehouse Operations. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
 - **Kang, Y.**, Liu, W. Online Capacity Provisioning for Integrated Parking and Charging Operations: Stochastic Lookahead Optimization with Decision-Bound Learning.
