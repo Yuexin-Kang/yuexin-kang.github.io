@@ -28,11 +28,11 @@ Selected Publications
 ======
 - **Kang, Y.**, Shao, J., Li, M., Yang, P., Chen, R., 2026. Deep reinforcement learning for order-tote-robot coordination in multi-tote storage and retrieval systems with sequential picking stations, *European Journal of Operational Research*, Accept.
 - **Kang, Y.**, Qu, Z., Yang, P., 2025. Enhancing e-commerce warehouse order fulfillment through predictive order reservation using machine learning, *IEEE Transactions on Automation Science and Engineering*, 22:5700–5713. ([Download](https://doi.org/10.1109/TASE.2024.3428541))
-- **Kang, Y.**, Wang, R., Qin, Z., Yang, P., Yan, Y., 2025. Warehouses with heterogeneous robots collaboration: operational policies and performance analysis, *International Journal of Production Research*, 63(23), 8698–8726. ([Download](https://doi.org/10.1080/00207543.2025.2513576))
+- **Kang, Y.**, Wang, R., Qin, Z., Yang, P., Yan, Y., 2025. Warehouses with heterogeneous robots collaboration: Operational policies and performance analysis, *International Journal of Production Research*, 63(23), 8698–8726. ([Download](https://doi.org/10.1080/00207543.2025.2513576))
 
 Selected Working Papers
 ======
-- **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with two-stage stochastic programming: an application to usage behavior pattern mining in parking subscription services, submitted to *Transportation Research Part C: Emerging Technologies*, Major revision.
-- **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online stochastic postponement-aware order pooling: model, recursive decomposition algorithm and an application to warehouse operations. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
-- **Kang, Y.**, Liu, W. Online capacity provisioning for integrated parking and charging operations: stochastic lookahead optimization with decision-bound learning.
-- **Kang, Y.**, Liu, W. Decision-bound learning for online resource allocation with predictions: performance guarantees and applications.
+- **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with two-stage stochastic programming: An application to usage behavior pattern mining in parking subscription services, submitted to *Transportation Research Part C: Emerging Technologies*, Major revision.
+- **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online stochastic postponement-aware order pooling: Model, recursive decomposition algorithm and an application to warehouse operations. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
+- **Kang, Y.**, Liu, W. Online capacity provisioning for integrated parking and charging operations: Stochastic lookahead optimization with decision-bound learning.
+- **Kang, Y.**, Liu, W. Decision-bound learning for online resource allocation with predictions: Performance guarantees and applications.
