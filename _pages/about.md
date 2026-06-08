@@ -20,9 +20,9 @@ Education
 
 Research Interests
 ======
-- Transportation and Logistics
-- Parking Optimization and Management
-- Smart Warehouse
+- Mobility, logistics, and urban service systems
+- Shared, automated, and electrified transportation systems
+- Robotic logistics and intelligent warehouse operations
 
 Selected Publications
 ======
@@ -34,5 +34,5 @@ Selected Working Papers
 ======
 - **Kang, Y.**, Ji, K., Liu, X., Miao, L., Liu, W. Clustering with two-stage stochastic programming: An application to usage behavior pattern mining in parking subscription services, submitted to *Transportation Research Part C: Emerging Technologies*, Major revision.
 - **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online stochastic postponement-aware order pooling: Model, recursive decomposition algorithm and an application to warehouse operations. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
-- **Kang, Y.**, Liu, W. Online capacity provisioning for integrated parking and charging operations: Stochastic lookahead optimization with decision-bound learning.
+- **Kang, Y.**, Liu, W. Is lookahead enough? Decision-bound learning for online capacity provisioning in integrated parking and charging operations.
 - **Kang, Y.**, Liu, W. Decision-bound learning for online resource allocation with predictions: Performance guarantees and applications.
