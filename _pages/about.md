@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). I received my master’s degree from Tsinghua University in 2025 and my bachelor’s degree from Wuhan University in 2022. My research interests lie in operations research and decision-making, with applications to transportation, logistics, and service systems. I employ optimization, modeling, and computational methods to understand and improve decisions under uncertainty and in evolving environments.
+I am currently a PhD student at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). I received my master’s degree from Tsinghua University in 2025 and my bachelor’s degree from Wuhan University in 2022. My research interests lie in operations research, with applications to transportation, logistics, and service systems. I employ optimization, modeling, and computational methods to understand and improve decision-making under uncertainty and in evolving environments.
 
 Public Publication Profiles: [Google Scholar](https://scholar.google.com/citations?user=Qp0LzREAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0007-0578-3090), [ResearchGate](https://www.researchgate.net/profile/Yuexin-Kang).
 
