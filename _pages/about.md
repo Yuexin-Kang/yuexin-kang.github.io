@@ -1,28 +1,25 @@
-
 ---
 permalink: /
-title: "Welcome to Yuexin's Homepage!"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About Me
 
 Yuexin Kang is currently a PhD student in Transportation at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). She earned her master’s degree from Tsinghua University in 2025 and her bachelor’s degree from Wuhan University in 2022. Her research focuses on equilibrium modeling and optimization in transportation and mobility systems, with particular interest in the strategic and operational challenges arising from electrification, shared mobility, and vehicle automation.
 
 Public Publication Profiles: [Google Scholar](https://scholar.google.com/citations?user=Qp0LzREAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0007-0578-3090), [ResearchGate](https://www.researchgate.net/profile/Yuexin-Kang).
 
-## Research Interests
-
+Research Interests
+======
 - Transportation Systems Modeling and Analytics
 - Electrified, Automated, and Shared Mobility
 - Transportation Economics and Operations
 
-## Selected Working Papers
-
+Selected Working Papers
+======
 - **Kang, Y.**, Yang, P., Liu, X., Shen, Z. J. M., Liu, W. Online stochastic postponement-aware order pooling: Model, recursive decomposition algorithm and an application to warehouse operations. ([Abstract](https://www.researchgate.net/publication/403251255_Online_Stochastic_Postponement-Aware_Order_Pooling_Model_Recursive_Decomposition_Algorithm_and_An_Application_to_Warehouse_Operations))
 - **Kang, Y.**, Liu, W. Is lookahead enough? Decision-bound learning for online capacity provisioning in integrated parking and charging operations.
 - **Kang, Y.**, Liu, W. A multi-service electric vehicle platform interacting with parking-charging and vehicle-to-grid operators.
