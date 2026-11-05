@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuexin Kang is currently a PhD student in Transportation at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). She earned her master’s degree from Tsinghua University in 2025 and her bachelor’s degree from Wuhan University in 2022. Her research focuses on equilibrium modeling and optimization in transportation and mobility systems, with particular interest in the strategic and operational challenges arising from electrification, shared mobility, and vehicle automation.
+Yuexin Kang is currently a PhD student in Transportation at the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), under the supervision of [Prof. Wei Liu](https://weiliu2016.github.io/). She earned her master’s degree from Tsinghua University in 2025 and her bachelor’s degree from Wuhan University in 2022. Her research focuses on modeling and optimization in transportation and mobility systems, with particular interest in the strategic and operational challenges arising from electrification, shared mobility, and automation.
 
 Public Publication Profiles: [Google Scholar](https://scholar.google.com/citations?user=Qp0LzREAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0007-0578-3090), [ResearchGate](https://www.researchgate.net/profile/Yuexin-Kang).
 
